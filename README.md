@@ -26,7 +26,7 @@
 #### Via CDN
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/yourusername/gf-datetimepicker@1.0.0/gf-datetimepicker.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/GDB-11/gf-datetime-picker@main/gf-datetime-picker.js"></script>
 ```
 
 #### Via npm

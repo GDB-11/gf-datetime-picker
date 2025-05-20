@@ -32,15 +32,15 @@
 #### Via npm
 
 ```bash
-npm install gf-datetimepicker
+npm install gf-datetime-picker
 ```
 
 #### Direct Download
 
-Download `gf-datetimepicker.js` and include it in your project:
+Download `gf-datetime-picker.js` and include it in your project:
 
 ```html
-<script src="path/to/gf-datetimepicker.js"></script>
+<script src="path/to/gf-datetime-picker.js"></script>
 ```
 
 ### Basic Usage

@@ -1,0 +1,47 @@
+{
+  "name": "gf-datetime-picker",
+  "version": "1.0.0",
+  "description": "A professional, lightweight, and customizable date and time picker library lovingly crafted in Peru",
+  "main": "gf-datetime-picker.js",
+  "module": "gf-datetime-picker.js",
+  "types": "gf-datetime-picker.d.ts",
+  "files": [
+    "gf-datetime-picker.js",
+    "gf-datetime-picker.d.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "datepicker",
+    "timepicker",
+    "datetime",
+    "calendar",
+    "date",
+    "time",
+    "picker",
+    "vanilla-js",
+    "javascript",
+    "peru"
+  ],
+  "author": "Gianfranco Díaz Badoino",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GDB-11/gf-datetime-picker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GDB-11/gf-datetime-picker.git/issues"
+  },
+  "homepage": "https://github.com/GDB-11/gf-datetime-picker.git#readme",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
